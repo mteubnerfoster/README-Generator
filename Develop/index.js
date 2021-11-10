@@ -1,23 +1,30 @@
 // TODO: Include packages needed for this application
+const inquirer = require('inquirer');
+// File system interaction
+const fs = require('fs');
+// Path
+const path = require('path');
+// Reference to generate.js
+const generateMarkdown = require('./generateMarkdown');
 
 // TODO: Create an array of questions for user input
 const questions = [
     {
         type: 'input',
         name: 'name',
-        message: 'Author name?'
+        message: 'Enter the author name.'
     }, {
         type: 'input',
         name: 'github',
-        message: 'Author GitHub URL?'
+        message: 'Enter the GitHub URL of the author.'
     }, {
         type: 'input',
         name: 'projectName',
-        message: 'Name of the project (should match the repository name)?'
+        message: 'Enter the project name (should match the repository name).'
     }, {
         type: 'input',
         name: 'projectDescription',
-        message: 'Give a 1-2 sentence, brief description of the project.'
+        message: 'Give a brief 1-2 sentence description of the project.'
     }, {
         type: 'input',
         name: 'general',
