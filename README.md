@@ -9,6 +9,7 @@ This command line application generates quality README files. The user will answ
 - [Installation](#installation)
 - [Contribute](#contribute)
 - [Author(s)](#author(s))
+- [Inquiries](#inquiries)
 - [License](#license)
 
 ## About
@@ -23,11 +24,11 @@ This is the installation section, where users will explain how to install, downl
 ## Contribute
 This is the contribution section, where users will explain how to contribute to their projects if available.
 
-## Author
+## Author(s)
 - [Megan Teubner-Foster](https://www.github.com/mteubnerfoster)
 
-## Questions?
-For questions about this application, send an email to mteubnerfoster@gmail.com.
+## Inquiries
+Send an email to mteubnerfoster@gmail.com if you have any inquiries about this application.
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)

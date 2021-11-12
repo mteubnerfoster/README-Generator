@@ -12,11 +12,11 @@ const questions = [
     {
         type: 'input',
         name: 'name',
-        message: 'Enter the author name.'
+        message: 'Enter the author name(s).'
     }, {
         type: 'input',
         name: 'github',
-        message: 'Enter the GitHub URL of the author.'
+        message: 'Enter the GitHub URL(s) of the author(s).'
     }, {
         type: 'input',
         name: 'title',
