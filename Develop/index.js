@@ -27,7 +27,7 @@ const questions = [
         message: 'Give a brief 1-2 sentence description of the project.'
     }, {
         type: 'input',
-        name: 'general',
+        name: 'about',
         message: 'Give a detailed explanation of the project and its requirements.'
     }, {
         type: 'input',
@@ -40,7 +40,7 @@ const questions = [
     }, {
         type: 'input',
         name: 'contribute',
-        message: 'Explain how to contribute to the project.'
+        message: 'Explain how to contribute to the project, if applicable.'
     }, {
         type: 'input',
         name: 'questions',
