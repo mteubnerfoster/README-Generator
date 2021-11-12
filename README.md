@@ -5,30 +5,28 @@ This command line application generates quality README files. The user will answ
 
 ## Table of Contents
 - [About](#about)
-- [Usage](#usage)
-- [Installation](#installation)
-- [Contribute](#contribute)
+- [Technologies](#technologies)
+- [Examples](#examples)
 - [Author(s)](#author(s))
-- [Inquiries](#inquiries)
 - [License](#license)
 
 ## About
-This is a command line application that accepts user input. When users are prompted for information about their application repositories, a high-quality, professional README.md file is generated with the information that they enter.
+This is a command line application that accepts user input. When users are prompted for information about their application repositories, a high-quality, professional README file is generated with the information that they enter.
 
-## Usage
-This is the usage section, where users will explain how to use their applications. I will be adding a GIF and video here.
+## Technologies
+This application was created using:
+- [NPM (Inquirer)](https://www.npmjs.com/package/inquirer)
+- [JavaScript](https://www.javascript.com/)
 
-## Installation
-This is the installation section, where users will explain how to install, download, or access their applications. 
-
-## Contribute
-This is the contribution section, where users will explain how to contribute to their projects if available.
+## Examples
+A photo of the generated README file: <br>
+![](images/Example-generated-README.JPG)
+<br>
+A .gif of the application in action: <br>
+![README-generator](images/READMEgenerator.gif)
 
 ## Author(s)
 - [Megan Teubner-Foster](https://www.github.com/mteubnerfoster)
-
-## Inquiries
-Send an email to mteubnerfoster@gmail.com if you have any inquiries about this application.
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
