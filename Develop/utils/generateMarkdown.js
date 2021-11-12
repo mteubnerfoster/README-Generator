@@ -1,10 +1,15 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
-function renderLicenseBadge(license) {}
+function renderLicenseBadge(license) {
+  // console.log('license: ', license);
+  return choices[license].badge;
+}
 
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
-function renderLicenseLink(license) {}
+function renderLicenseLink(license) {
+  return choices[license].link;
+}
 
 // TODO: Create a function that returns the license section of README
 // If there is no license, return an empty string

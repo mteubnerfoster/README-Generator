@@ -19,8 +19,8 @@ const questions = [
         message: 'Enter the GitHub URL of the author.'
     }, {
         type: 'input',
-        name: 'projectName',
-        message: 'Enter the project name (should match the repository name).'
+        name: 'title',
+        message: 'Enter the title of the project (should match the repository name).'
     }, {
         type: 'input',
         name: 'projectDescription',
