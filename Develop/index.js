@@ -48,12 +48,12 @@ const questions = [
     }, {
         type: 'list',
         name: 'license',
-        message: 'Which license are you using?',
+        message: 'Choose which license to use for this project.',
         choices: [
             'MIT',
+            'Mozilla',
             'Apache',
             'BSD',
-            'Mozilla',
             'None'
         ],
     },
