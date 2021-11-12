@@ -43,7 +43,7 @@ const questions = [
         message: 'Explain how to contribute to the project, if applicable.'
     }, {
         type: 'input',
-        name: 'questions',
+        name: 'inquiries',
         message: 'Provide an email for users to send inquiries to.'
     }, {
         type: 'list',

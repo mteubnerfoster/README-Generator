@@ -56,10 +56,11 @@ ${data.projectDescription}
 - [Installation](#installation)
 - [Contribute](#contribute)
 - [Author(s)](#author(s))
+- [Inquiries](#inquiries)
 - [License](#license)
 
 ## About
-${data.general}
+${data.about}
 
 ## Usage
 ${data.usage}
@@ -73,8 +74,8 @@ ${data.contribute}
 ## Author
 - [${data.name}](${data.github})
 
-## Questions
-Send an email to ${data.questions} if you have any questions about this application.
+## Inquiries
+Send an email to ${data.inquiries} if you have any inquiries about this application.
 
 ## License
 ${renderLicenseSection(data.license)}
